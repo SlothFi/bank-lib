@@ -6,7 +6,7 @@
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://venomdao.org",
+  "homepage": "https://bank.defimons.com",
   "repository": {
     "url": "https://github.com/SlothFi/bank-lib",
     "type": "git"
